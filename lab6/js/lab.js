@@ -12,7 +12,7 @@ myMainRide = {
       model = "Altima";
       color = "Rodeo Red";
       year = 2008;
-      age : function() {
+      age = function() {
         return 2021 - age;
       }
 }
