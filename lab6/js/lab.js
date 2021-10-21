@@ -1,19 +1,19 @@
-/*
+/**
   * Author: Maya Mendoza <malumend@ucsc.edu>
   * Created: 20 October 2021
   * License: Public Domain
-*/
+**/
 
 // Define Variables
-myTransport = ["car" , "bus", "walking", "rides from friends" , "bike"]
+myTransport = ["car" , "bus", "walking", "rides from friends" , "bike"];
 
 myMainRide = {
-      make = "Nissan";
-      model = "Altima";
-      color = "Rodeo Red";
-      year = 2008;
-      age = function() {
-        return 2021 - age;
+      make : "Nissan",
+      model : "Altima",
+      color : "Red",
+      year : 2008,
+      age : function() {
+        return 2021 - year;
       }
 }
 
