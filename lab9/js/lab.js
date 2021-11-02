@@ -25,9 +25,3 @@ new2El.innerHTML = "You really think I could.";
 // Append child node to parent node
 outputEl.appendChild(new1El);
 outputEl.appendChild(new2El);
-
-// css change
-new1El.style.fontSize = "20px";
-new1El.style.color = "red";
-new2El.style.color = "red";
-outputEl.style.border = "dashed 5px blue";

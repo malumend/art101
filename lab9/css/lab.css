@@ -7,7 +7,7 @@ h2{
   font-size: 200%;
 }
 h2{
-  color:blue;
+  color:pink;
   font-size: 200%;
 }
 h2{
@@ -21,4 +21,6 @@ p{
 }
 #content{
   background-color: inherit;
+  width:inherit;
+  font-size: 24px
 }
